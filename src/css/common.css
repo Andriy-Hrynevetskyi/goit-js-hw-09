@@ -46,8 +46,6 @@ img {
 button[data-start],
 button[data-stop] {
   font-size: 24px;
-  color: #fffafa;
-  background-color: #00bfff;
   padding: 10px;
   border-radius: 3px;
 }
